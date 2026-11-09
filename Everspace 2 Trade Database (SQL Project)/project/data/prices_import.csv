@@ -1,0 +1,409 @@
+star_name,region_name,trader_name,comm_name,price
+CETO,Ceto Orbit,Colonial Research Station,Camdon Enzyme,868
+CETO,Ceto Orbit,Colonial Research Station,Clothing,59
+CETO,Ceto Orbit,Colonial Research Station,Cybernetic Implants,270
+CETO,Ceto Orbit,Colonial Research Station,Earth Wine,805
+CETO,Ceto Orbit,Colonial Research Station,Liquor,36
+CETO,Ceto Orbit,Colonial Research Station,Medicine,49
+CETO,Ceto Orbit,Colonial Research Station,Mining Equipment,74
+CETO,Ceto Orbit,Colonial Research Station,Nano Fibers,372
+CETO,Ceto Orbit,Colonial Research Station,Ramen,22
+CETO,Ceto Orbit,Colonial Research Station,Seeds,34
+CETO,Ceto Orbit,Colonial Research Station,Small Arms,130
+CETO,Ceto Orbit,Colonial Research Station,Solar Panels,160
+CETO,Charybdis Bowl,G&B Scrapyard,Camdon Enzyme,854
+CETO,Charybdis Bowl,G&B Scrapyard,Clothing,60
+CETO,Charybdis Bowl,G&B Scrapyard,Cybernetic Implants,298
+CETO,Charybdis Bowl,G&B Scrapyard,Earth Wine,797
+CETO,Charybdis Bowl,G&B Scrapyard,Liquor,37
+CETO,Charybdis Bowl,G&B Scrapyard,Medicine,51
+CETO,Charybdis Bowl,G&B Scrapyard,Mining Equipment,71
+CETO,Charybdis Bowl,G&B Scrapyard,Nano Fibers,337
+CETO,Charybdis Bowl,G&B Scrapyard,Ramen,23
+CETO,Charybdis Bowl,G&B Scrapyard,Seeds,32
+CETO,Charybdis Bowl,G&B Scrapyard,Small Arms,129
+CETO,Charybdis Bowl,G&B Scrapyard,Solar Panels,150
+CETO,Alcyone Station,Main Station,Camdon Enzyme,808
+CETO,Alcyone Station,Main Station,Clothing,59
+CETO,Alcyone Station,Main Station,Cybernetic Implants,298
+CETO,Alcyone Station,Main Station,Earth Wine,749
+CETO,Alcyone Station,Main Station,Liquor,34
+CETO,Alcyone Station,Main Station,Medicine,50
+CETO,Alcyone Station,Main Station,Mining Equipment,70
+CETO,Alcyone Station,Main Station,Nano Fibers,331
+CETO,Alcyone Station,Main Station,Ramen,20
+CETO,Alcyone Station,Main Station,Seeds,32
+CETO,Alcyone Station,Main Station,Small Arms,119
+CETO,Alcyone Station,Main Station,Solar Panels,154
+CETO,Nephtys Plains,Nephtys Plains Station,Camdon Enzyme,855
+CETO,Nephtys Plains,Nephtys Plains Station,Clothing,60
+CETO,Nephtys Plains,Nephtys Plains Station,Cybernetic Implants,298
+CETO,Nephtys Plains,Nephtys Plains Station,Earth Wine,798
+CETO,Nephtys Plains,Nephtys Plains Station,Liquor,37
+CETO,Nephtys Plains,Nephtys Plains Station,Medicine,53
+CETO,Nephtys Plains,Nephtys Plains Station,Mining Equipment,71
+CETO,Nephtys Plains,Nephtys Plains Station,Nano Fibers,337
+CETO,Nephtys Plains,Nephtys Plains Station,Ramen,23
+CETO,Nephtys Plains,Nephtys Plains Station,Seeds,32
+CETO,Nephtys Plains,Nephtys Plains Station,Small Arms,129
+CETO,Nephtys Plains,Nephtys Plains Station,Solar Panels,150
+CETO,Alcyone Station,Refinery,Camdon Enzyme,808
+CETO,Alcyone Station,Refinery,Clothing,59
+CETO,Alcyone Station,Refinery,Cybernetic Implants,298
+CETO,Alcyone Station,Refinery,Earth Wine,749
+CETO,Alcyone Station,Refinery,Liquor,34
+CETO,Alcyone Station,Refinery,Medicine,50
+CETO,Alcyone Station,Refinery,Mining Equipment,70
+CETO,Alcyone Station,Refinery,Nano Fibers,331
+CETO,Alcyone Station,Refinery,Ramen,20
+CETO,Alcyone Station,Refinery,Seeds,32
+CETO,Alcyone Station,Refinery,Small Arms,119
+CETO,Alcyone Station,Refinery,Solar Panels,154
+CETO,Siren's Sea,The Flying Dutchess,Camdon Enzyme,883
+CETO,Siren's Sea,The Flying Dutchess,Clothing,60
+CETO,Siren's Sea,The Flying Dutchess,Cybernetic Implants,277
+CETO,Siren's Sea,The Flying Dutchess,Earth Wine,822
+CETO,Siren's Sea,The Flying Dutchess,Liquor,37
+CETO,Siren's Sea,The Flying Dutchess,Medicine,49
+CETO,Siren's Sea,The Flying Dutchess,Mining Equipment,75
+CETO,Siren's Sea,The Flying Dutchess,Nano Fibers,389
+CETO,Siren's Sea,The Flying Dutchess,Ramen,23
+CETO,Siren's Sea,The Flying Dutchess,Seeds,37
+CETO,Siren's Sea,The Flying Dutchess,Small Arms,134
+CETO,Siren's Sea,The Flying Dutchess,Solar Panels,167
+CETO,Union Bridge,Trading Outpost,Camdon Enzyme,778
+CETO,Union Bridge,Trading Outpost,Clothing,56
+CETO,Union Bridge,Trading Outpost,Cybernetic Implants,303
+CETO,Union Bridge,Trading Outpost,Earth Wine,716
+CETO,Union Bridge,Trading Outpost,Liquor,33
+CETO,Union Bridge,Trading Outpost,Medicine,49
+CETO,Union Bridge,Trading Outpost,Mining Equipment,70
+CETO,Union Bridge,Trading Outpost,Nano Fibers,334
+CETO,Union Bridge,Trading Outpost,Ramen,19
+CETO,Union Bridge,Trading Outpost,Seeds,32
+CETO,Union Bridge,Trading Outpost,Small Arms,113
+CETO,Union Bridge,Trading Outpost,Solar Panels,161
+CETO,Planetary Debris,The Flying Dutchess,Camdon Enzyme,775
+CETO,Planetary Debris,The Flying Dutchess,Clothing,54
+CETO,Planetary Debris,The Flying Dutchess,Cybernetic Implants,305
+CETO,Planetary Debris,The Flying Dutchess,Earth Wine,714
+CETO,Planetary Debris,The Flying Dutchess,Liquor,31
+CETO,Planetary Debris,The Flying Dutchess,Medicine,44
+CETO,Planetary Debris,The Flying Dutchess,Mining Equipment,71
+CETO,Planetary Debris,The Flying Dutchess,Nano Fibers,365
+CETO,Planetary Debris,The Flying Dutchess,Ramen,18
+CETO,Planetary Debris,The Flying Dutchess,Seeds,34
+CETO,Planetary Debris,The Flying Dutchess,Small Arms,112
+CETO,Planetary Debris,The Flying Dutchess,Solar Panels,172
+UNION,Avonrest,Settlement,Camdon Enzyme,452
+UNION,Avonrest,Settlement,Clothing,49
+UNION,Avonrest,Settlement,Cybernetic Implants,442
+UNION,Avonrest,Settlement,Earth Wine,512
+UNION,Avonrest,Settlement,Liquor,23
+UNION,Avonrest,Settlement,Medicine,47
+UNION,Avonrest,Settlement,Mining Equipment,61
+UNION,Avonrest,Settlement,Nano Fibers,336
+UNION,Avonrest,Settlement,Ramen,8
+UNION,Avonrest,Settlement,Seeds,32
+UNION,Avonrest,Settlement,Small Arms,74
+UNION,Avonrest,Settlement,Solar Panels,223
+UNION,Ayres Relay Station,Ayres Relay Station,Camdon Enzyme,567
+UNION,Ayres Relay Station,Ayres Relay Station,Clothing,44
+UNION,Ayres Relay Station,Ayres Relay Station,Cybernetic Implants,416
+UNION,Ayres Relay Station,Ayres Relay Station,Earth Wine,597
+UNION,Ayres Relay Station,Ayres Relay Station,Liquor,21
+UNION,Ayres Relay Station,Ayres Relay Station,Medicine,40
+UNION,Ayres Relay Station,Ayres Relay Station,Mining Equipment,68
+UNION,Ayres Relay Station,Ayres Relay Station,Nano Fibers,389
+UNION,Ayres Relay Station,Ayres Relay Station,Ramen,6
+UNION,Ayres Relay Station,Ayres Relay Station,Seeds,38
+UNION,Ayres Relay Station,Ayres Relay Station,Small Arms,68
+UNION,Ayres Relay Station,Ayres Relay Station,Solar Panels,216
+UNION,Freelancer Outpost,The Flying Dutchess,Camdon Enzyme,582
+UNION,Freelancer Outpost,The Flying Dutchess,Clothing,51
+UNION,Freelancer Outpost,The Flying Dutchess,Cybernetic Implants,394
+UNION,Freelancer Outpost,The Flying Dutchess,Earth Wine,537
+UNION,Freelancer Outpost,The Flying Dutchess,Liquor,23
+UNION,Freelancer Outpost,The Flying Dutchess,Medicine,43
+UNION,Freelancer Outpost,The Flying Dutchess,Mining Equipment,65
+UNION,Freelancer Outpost,The Flying Dutchess,Nano Fibers,302
+UNION,Freelancer Outpost,The Flying Dutchess,Ramen,10
+UNION,Freelancer Outpost,The Flying Dutchess,Seeds,30
+UNION,Freelancer Outpost,The Flying Dutchess,Small Arms,76
+UNION,Freelancer Outpost,The Flying Dutchess,Solar Panels,205
+UNION,Union Outer Rim,Remote Station,Camdon Enzyme,585											
+UNION,Union Outer Rim,Remote Station,Clothing,49
+UNION,Union Outer Rim,Remote Station,Cybernetic Implants,384
+UNION,Union Outer Rim,Remote Station,Earth Wine,486
+UNION,Union Outer Rim,Remote Station,Liquor,25
+UNION,Union Outer Rim,Remote Station,Medicine,47
+UNION,Union Outer Rim,Remote Station,Mining Equipment,63
+UNION,Union Outer Rim,Remote Station,Nano Fibers,309
+UNION,Union Outer Rim,Remote Station,Ramen,12
+UNION,Union Outer Rim,Remote Station,Seeds,30
+UNION,Union Outer Rim,Remote Station,Small Arms,68
+UNION,Union Outer Rim,Remote Station,Solar Panels,198
+UNION,Warship Remains,Thy Flying Dutchess,Camdon Enzyme,551
+UNION,Warship Remains,Thy Flying Dutchess,Clothing,51
+UNION,Warship Remains,Thy Flying Dutchess,Cybernetic Implants,398
+UNION,Warship Remains,Thy Flying Dutchess,Earth Wine,461
+UNION,Warship Remains,Thy Flying Dutchess,Liquor,27
+UNION,Warship Remains,Thy Flying Dutchess,Medicine,48
+UNION,Warship Remains,Thy Flying Dutchess,Mining Equipment,61
+UNION,Warship Remains,Thy Flying Dutchess,Nano Fibers,297
+UNION,Warship Remains,Thy Flying Dutchess,Ramen,12
+UNION,Warship Remains,Thy Flying Dutchess,Seeds,28
+UNION,Warship Remains,Thy Flying Dutchess,Small Arms,62
+UNION,Warship Remains,Thy Flying Dutchess,Solar Panels,202
+UNION,Cartwright's Wake,Smuggler Base,Camdon Enzyme,522
+UNION,Cartwright's Wake,Smuggler Base,Clothing,49
+UNION,Cartwright's Wake,Smuggler Base,Cybernetic Implants,409
+UNION,Cartwright's Wake,Smuggler Base,Earth Wine,450
+UNION,Cartwright's Wake,Smuggler Base,Liquor,25
+UNION,Cartwright's Wake,Smuggler Base,Medicine,47
+UNION,Cartwright's Wake,Smuggler Base,Mining Equipment,61
+UNION,Cartwright's Wake,Smuggler Base,Nano Fibers,308
+UNION,Cartwright's Wake,Smuggler Base,Ramen,10
+UNION,Cartwright's Wake,Smuggler Base,Seeds,30
+UNION,Cartwright's Wake,Smuggler Base,Small Arms,60
+UNION,Cartwright's Wake,Smuggler Base,Solar Panels,208
+UNION,Anandra Bishop Starport,Trading Hub,Camdon Enzyme,501
+UNION,Anandra Bishop Starport,Trading Hub,Clothing,45
+UNION,Anandra Bishop Starport,Trading Hub,Cybernetic Implants,436
+UNION,Anandra Bishop Starport,Trading Hub,Earth Wine,575
+UNION,Anandra Bishop Starport,Trading Hub,Liquor,20
+UNION,Anandra Bishop Starport,Trading Hub,Medicine,43
+UNION,Anandra Bishop Starport,Trading Hub,Mining Equipment,65
+UNION,Anandra Bishop Starport,Trading Hub,Nano Fibers,378
+UNION,Anandra Bishop Starport,Trading Hub,Ramen,5
+UNION,Anandra Bishop Starport,Trading Hub,Seeds,37
+UNION,Anandra Bishop Starport,Trading Hub,Small Arms,60
+UNION,Anandra Bishop Starport,Trading Hub,Solar Panels,223
+UNION,Prescott Starbase,Kato Palace,Camdon Enzyme,505
+UNION,Prescott Starbase,Kato Palace,Clothing,45
+UNION,Prescott Starbase,Kato Palace,Cybernetic Implants,437
+UNION,Prescott Starbase,Kato Palace,Earth Wine,583
+UNION,Prescott Starbase,Kato Palace,Liquor,20
+UNION,Prescott Starbase,Kato Palace,Medicine,41
+UNION,Prescott Starbase,Kato Palace,Mining Equipment,65
+UNION,Prescott Starbase,Kato Palace,Nano Fibers,382
+UNION,Prescott Starbase,Kato Palace,Ramen,5
+UNION,Prescott Starbase,Kato Palace,Seeds,37
+UNION,Prescott Starbase,Kato Palace,Small Arms,60
+UNION,Prescott Starbase,Kato Palace,Solar Panels,225
+UNION,Prescott Starbase,Black Market Dealer,Camdon Enzyme,505
+UNION,Prescott Starbase,Black Market Dealer,Clothing,45
+UNION,Prescott Starbase,Black Market Dealer,Cybernetic Implants,437
+UNION,Prescott Starbase,Black Market Dealer,Earth Wine,583
+UNION,Prescott Starbase,Black Market Dealer,Liquor,20
+UNION,Prescott Starbase,Black Market Dealer,Medicine,41
+UNION,Prescott Starbase,Black Market Dealer,Mining Equipment,65
+UNION,Prescott Starbase,Black Market Dealer,Nano Fibers,382
+UNION,Prescott Starbase,Black Market Dealer,Ramen,5
+UNION,Prescott Starbase,Black Market Dealer,Seeds,37
+UNION,Prescott Starbase,Black Market Dealer,Small Arms,60
+UNION,Prescott Starbase,Black Market Dealer,Solar Panels,225
+UNION,Prescott Starbase,Freelancer Hangar,Camdon Enzyme,505											
+UNION,Prescott Starbase,Freelancer Hangar,Clothing,45
+UNION,Prescott Starbase,Freelancer Hangar,Cybernetic Implants,437
+UNION,Prescott Starbase,Freelancer Hangar,Earth Wine,583
+UNION,Prescott Starbase,Freelancer Hangar,Liquor,20
+UNION,Prescott Starbase,Freelancer Hangar,Medicine,41
+UNION,Prescott Starbase,Freelancer Hangar,Mining Equipment,65
+UNION,Prescott Starbase,Freelancer Hangar,Nano Fibers,382
+UNION,Prescott Starbase,Freelancer Hangar,Ramen,5
+UNION,Prescott Starbase,Freelancer Hangar,Seeds,37
+UNION,Prescott Starbase,Freelancer Hangar,Small Arms,60
+UNION,Prescott Starbase,Freelancer Hangar,Solar Panels,225
+UNION,Prescott Starbase,G&B Office & Hangar,Camdon Enzyme,505
+UNION,Prescott Starbase,G&B Office & Hangar,Clothing,45
+UNION,Prescott Starbase,G&B Office & Hangar,Cybernetic Implants,437
+UNION,Prescott Starbase,G&B Office & Hangar,Earth Wine,583
+UNION,Prescott Starbase,G&B Office & Hangar,Liquor,20
+UNION,Prescott Starbase,G&B Office & Hangar,Medicine,41
+UNION,Prescott Starbase,G&B Office & Hangar,Mining Equipment,65
+UNION,Prescott Starbase,G&B Office & Hangar,Nano Fibers,382
+UNION,Prescott Starbase,G&B Office & Hangar,Ramen,5
+UNION,Prescott Starbase,G&B Office & Hangar,Seeds,37
+UNION,Prescott Starbase,G&B Office & Hangar,Small Arms,60
+UNION,Prescott Starbase,G&B Office & Hangar,Solar Panels,225
+UNION,Abandoned Transit Point,The Flying Dutchess,Camdon Enzyme,460
+UNION,Abandoned Transit Point,The Flying Dutchess,Clothing,51
+UNION,Abandoned Transit Point,The Flying Dutchess,Cybernetic Implants,436
+UNION,Abandoned Transit Point,The Flying Dutchess,Earth Wine,489
+UNION,Abandoned Transit Point,The Flying Dutchess,Liquor,25
+UNION,Abandoned Transit Point,The Flying Dutchess,Medicine,50
+UNION,Abandoned Transit Point,The Flying Dutchess,Mining Equipment,58
+UNION,Abandoned Transit Point,The Flying Dutchess,Nano Fibers,302
+UNION,Abandoned Transit Point,The Flying Dutchess,Ramen,10
+UNION,Abandoned Transit Point,The Flying Dutchess,Seeds,30
+UNION,Abandoned Transit Point,The Flying Dutchess,Small Arms,68
+UNION,Abandoned Transit Point,The Flying Dutchess,Solar Panels,219
+UNION,Noah Damaris Starport,Zharkov Transit Forum,Camdon Enzyme,410
+UNION,Noah Damaris Starport,Zharkov Transit Forum,Clothing,51
+UNION,Noah Damaris Starport,Zharkov Transit Forum,Cybernetic Implants,458
+UNION,Noah Damaris Starport,Zharkov Transit Forum,Earth Wine,547
+UNION,Noah Damaris Starport,Zharkov Transit Forum,Liquor,24
+UNION,Noah Damaris Starport,Zharkov Transit Forum,Medicine,48
+UNION,Noah Damaris Starport,Zharkov Transit Forum,Mining Equipment,60
+UNION,Noah Damaris Starport,Zharkov Transit Forum,Nano Fibers,337
+UNION,Noah Damaris Starport,Zharkov Transit Forum,Ramen,9
+UNION,Noah Damaris Starport,Zharkov Transit Forum,Seeds,32
+UNION,Noah Damaris Starport,Zharkov Transit Forum,Small Arms,81
+UNION,Noah Damaris Starport,Zharkov Transit Forum,Solar Panels,230
+UNION,Noah Damaris Starport,G&B Union Branch,Camdon Enzyme,410
+UNION,Noah Damaris Starport,G&B Union Branch,Clothing,51
+UNION,Noah Damaris Starport,G&B Union Branch,Cybernetic Implants,458
+UNION,Noah Damaris Starport,G&B Union Branch,Earth Wine,547
+UNION,Noah Damaris Starport,G&B Union Branch,Liquor,24
+UNION,Noah Damaris Starport,G&B Union Branch,Medicine,48
+UNION,Noah Damaris Starport,G&B Union Branch,Mining Equipment,60
+UNION,Noah Damaris Starport,G&B Union Branch,Nano Fibers,337
+UNION,Noah Damaris Starport,G&B Union Branch,Ramen,9
+UNION,Noah Damaris Starport,G&B Union Branch,Seeds,32
+UNION,Noah Damaris Starport,G&B Union Branch,Small Arms,81
+UNION,Noah Damaris Starport,G&B Union Branch,Solar Panels,230
+DRAKE,Alpha Draco Claim II,The Flying Dutchess,Camdon Enzyme,634
+DRAKE,Alpha Draco Claim II,The Flying Dutchess,Clothing,51
+DRAKE,Alpha Draco Claim II,The Flying Dutchess,Cybernetic Implants,450
+DRAKE,Alpha Draco Claim II,The Flying Dutchess,Earth Wine,739
+DRAKE,Alpha Draco Claim II,The Flying Dutchess,Liquor,28
+DRAKE,Alpha Draco Claim II,The Flying Dutchess,Medicine,36
+DRAKE,Alpha Draco Claim II,The Flying Dutchess,Mining Equipment,72
+DRAKE,Alpha Draco Claim II,The Flying Dutchess,Nano Fibers,454
+DRAKE,Alpha Draco Claim II,The Flying Dutchess,Ramen,13
+DRAKE,Alpha Draco Claim II,The Flying Dutchess,Seeds,44
+DRAKE,Alpha Draco Claim II,The Flying Dutchess,Small Arms,97
+DRAKE,Alpha Draco Claim II,The Flying Dutchess,Solar Panels,234
+DRAKE,Terra Nova,Coalition HQ,Camdon Enzyme,777
+DRAKE,Terra Nova,Coalition HQ,Clothing,54
+DRAKE,Terra Nova,Coalition HQ,Cybernetic Implants,401
+DRAKE,Terra Nova,Coalition HQ,Earth Wine,789
+DRAKE,Terra Nova,Coalition HQ,Liquor,31
+DRAKE,Terra Nova,Coalition HQ,Medicine,33
+DRAKE,Terra Nova,Coalition HQ,Mining Equipment,77
+DRAKE,Terra Nova,Coalition HQ,Nano Fibers,458
+DRAKE,Terra Nova,Coalition HQ,Ramen,17
+DRAKE,Terra Nova,Coalition HQ,Seeds,44
+DRAKE,Terra Nova,Coalition HQ,Small Arms,116
+DRAKE,Terra Nova,Coalition HQ,Solar Panels,216
+DRAKE,Terra Nova,Coalition Cargo Terminal,Camdon Enzyme,767
+DRAKE,Terra Nova,Coalition Cargo Terminal,Clothing,55
+DRAKE,Terra Nova,Coalition Cargo Terminal,Cybernetic Implants,435
+DRAKE,Terra Nova,Coalition Cargo Terminal,Earth Wine,823
+DRAKE,Terra Nova,Coalition Cargo Terminal,Liquor,32
+DRAKE,Terra Nova,Coalition Cargo Terminal,Medicine,30
+DRAKE,Terra Nova,Coalition Cargo Terminal,Mining Equipment,77
+DRAKE,Terra Nova,Coalition Cargo Terminal,Nano Fibers,483
+DRAKE,Terra Nova,Coalition Cargo Terminal,Ramen,17
+DRAKE,Terra Nova,Coalition Cargo Terminal,Seeds,47
+DRAKE,Terra Nova,Coalition Cargo Terminal,Small Arms,118
+DRAKE,Terra Nova,Coalition Cargo Terminal,Solar Panels,230
+DRAKE,Terra Nova,Coalition Outpost,Camdon Enzyme,801
+DRAKE,Terra Nova,Coalition Outpost,Clothing,56
+DRAKE,Terra Nova,Coalition Outpost,Cybernetic Implants,439
+DRAKE,Terra Nova,Coalition Outpost,Earth Wine,855
+DRAKE,Terra Nova,Coalition Outpost,Liquor,33
+DRAKE,Terra Nova,Coalition Outpost,Medicine,30
+DRAKE,Terra Nova,Coalition Outpost,Mining Equipment,78
+DRAKE,Terra Nova,Coalition Outpost,Nano Fibers,497
+DRAKE,Terra Nova,Coalition Outpost,Ramen,18
+DRAKE,Terra Nova,Coalition Outpost,Seeds,47
+DRAKE,Terra Nova,Coalition Outpost,Small Arms,125
+DRAKE,Terra Nova,Coalition Outpost,Solar Panels,231
+KHAIT NEBULA,Athor Orbit,The Flying Dutchess,Camdon Enzyme,793
+KHAIT NEBULA,Athor Orbit,The Flying Dutchess,Clothing,69
+KHAIT NEBULA,Athor Orbit,The Flying Dutchess,Cybernetic Implants,492
+KHAIT NEBULA,Athor Orbit,The Flying Dutchess,Earth Wine,927
+KHAIT NEBULA,Athor Orbit,The Flying Dutchess,Liquor,44
+KHAIT NEBULA,Athor Orbit,The Flying Dutchess,Medicine,68
+KHAIT NEBULA,Athor Orbit,The Flying Dutchess,Mining Equipment,60
+KHAIT NEBULA,Athor Orbit,The Flying Dutchess,Nano Fibers,188
+KHAIT NEBULA,Athor Orbit,The Flying Dutchess,Ramen,30
+KHAIT NEBULA,Athor Orbit,The Flying Dutchess,Seeds,14
+KHAIT NEBULA,Athor Orbit,The Flying Dutchess,Small Arms,155
+KHAIT NEBULA,Athor Orbit,The Flying Dutchess,Solar Panels,235
+KHAIT NEBULA,Khaït Trench,Okrot Trading Station,Camdon Enzyme,678
+KHAIT NEBULA,Khaït Trench,Okrot Trading Station,Clothing,64
+KHAIT NEBULA,Khaït Trench,Okrot Trading Station,Cybernetic Implants,465
+KHAIT NEBULA,Khaït Trench,Okrot Trading Station,Earth Wine,807
+KHAIT NEBULA,Khaït Trench,Okrot Trading Station,Liquor,39
+KHAIT NEBULA,Khaït Trench,Okrot Trading Station,Medicine,63
+KHAIT NEBULA,Khaït Trench,Okrot Trading Station,Mining Equipment,56
+KHAIT NEBULA,Khaït Trench,Okrot Trading Station,Nano Fibers,140
+KHAIT NEBULA,Khaït Trench,Okrot Trading Station,Ramen,25
+KHAIT NEBULA,Khaït Trench,Okrot Trading Station,Seeds,14
+KHAIT NEBULA,Khaït Trench,Okrot Trading Station,Small Arms,131
+KHAIT NEBULA,Khaït Trench,Okrot Trading Station,Solar Panels,225
+KHAIT NEBULA,The Naught Side,Bri Bioplant,Camdon Enzyme,737
+KHAIT NEBULA,The Naught Side,Bri Bioplant,Clothing,66
+KHAIT NEBULA,The Naught Side,Bri Bioplant,Cybernetic Implants,482
+KHAIT NEBULA,The Naught Side,Bri Bioplant,Earth Wine,874
+KHAIT NEBULA,The Naught Side,Bri Bioplant,Liquor,41
+KHAIT NEBULA,The Naught Side,Bri Bioplant,Medicine,65
+KHAIT NEBULA,The Naught Side,Bri Bioplant,Mining Equipment,58
+KHAIT NEBULA,The Naught Side,Bri Bioplant,Nano Fibers,161
+KHAIT NEBULA,The Naught Side,Bri Bioplant,Ramen,27
+KHAIT NEBULA,The Naught Side,Bri Bioplant,Seeds,12
+KHAIT NEBULA,The Naught Side,Bri Bioplant,Small Arms,144
+KHAIT NEBULA,The Naught Side,Bri Bioplant,Solar Panels,230
+KHIONE,Ice Fields,Zethes Research Station,Camdon Enzyme,160
+KHIONE,Ice Fields,Zethes Research Station,Clothing,60
+KHIONE,Ice Fields,Zethes Research Station,Cybernetic Implants,557
+KHIONE,Ice Fields,Zethes Research Station,Earth Wine,795
+KHIONE,Ice Fields,Zethes Research Station,Liquor,33
+KHIONE,Ice Fields,Zethes Research Station,Medicine,57
+KHIONE,Ice Fields,Zethes Research Station,Mining Equipment,58
+KHIONE,Ice Fields,Zethes Research Station,Nano Fibers,389
+KHIONE,Ice Fields,Zethes Research Station,Ramen,19
+KHIONE,Ice Fields,Zethes Research Station,Seeds,37
+KHIONE,Ice Fields,Zethes Research Station,Small Arms,126
+KHIONE,Ice Fields,Zethes Research Station,Solar Panels,271
+ZHARKOV,Dust Rim,Union Border Control,Camdon Enzyme,394
+ZHARKOV,Dust Rim,Union Border Control,Clothing,59
+ZHARKOV,Dust Rim,Union Border Control,Cybernetic Implants,498
+ZHARKOV,Dust Rim,Union Border Control,Earth Wine,697
+ZHARKOV,Dust Rim,Union Border Control,Liquor,33
+ZHARKOV,Dust Rim,Union Border Control,Medicine,57
+ZHARKOV,Dust Rim,Union Border Control,Mining Equipment,51
+ZHARKOV,Dust Rim,Union Border Control,Nano Fibers,278
+ZHARKOV,Dust Rim,Union Border Control,Ramen,19
+ZHARKOV,Dust Rim,Union Border Control,Seeds,27
+ZHARKOV,Dust Rim,Union Border Control,Small Arms,109
+ZHARKOV,Dust Rim,Union Border Control,Solar Panels,242
+ZHARKOV,Dust Rim,Remote Mining Station,Camdon Enzyme,498
+ZHARKOV,Dust Rim,Remote Mining Station,Clothing,66
+ZHARKOV,Dust Rim,Remote Mining Station,Cybernetic Implants,547
+ZHARKOV,Dust Rim,Remote Mining Station,Earth Wine,858
+ZHARKOV,Dust Rim,Remote Mining Station,Liquor,40
+ZHARKOV,Dust Rim,Remote Mining Station,Medicine,66
+ZHARKOV,Dust Rim,Remote Mining Station,Mining Equipment,45
+ZHARKOV,Dust Rim,Remote Mining Station,Nano Fibers,268
+ZHARKOV,Dust Rim,Remote Mining Station,Ramen,26
+ZHARKOV,Dust Rim,Remote Mining Station,Seeds,24
+ZHARKOV,Dust Rim,Remote Mining Station,Small Arms,141
+ZHARKOV,Dust Rim,Remote Mining Station,Solar Panels,262
+ZHARKOV,Eye of the Storm,Vesna Mining Station,Camdon Enzyme,435
+ZHARKOV,Eye of the Storm,Vesna Mining Station,Clothing,61
+ZHARKOV,Eye of the Storm,Vesna Mining Station,Cybernetic Implants,515
+ZHARKOV,Eye of the Storm,Vesna Mining Station,Earth Wine,761
+ZHARKOV,Eye of the Storm,Vesna Mining Station,Liquor,35
+ZHARKOV,Eye of the Storm,Vesna Mining Station,Medicine,62
+ZHARKOV,Eye of the Storm,Vesna Mining Station,Mining Equipment,48
+ZHARKOV,Eye of the Storm,Vesna Mining Station,Nano Fibers,268
+ZHARKOV,Eye of the Storm,Vesna Mining Station,Ramen,21
+ZHARKOV,Eye of the Storm,Vesna Mining Station,Seeds,26
+ZHARKOV,Eye of the Storm,Vesna Mining Station,Small Arms,122
+ZHARKOV,Eye of the Storm,Vesna Mining Station,Solar Panels,249
+ZHARKOV,Devana Gas Orbit,The Flying Dutchess,Camdon Enzyme,452
+ZHARKOV,Devana Gas Orbit,The Flying Dutchess,Clothing,64
+ZHARKOV,Devana Gas Orbit,The Flying Dutchess,Cybernetic Implants,542
+ZHARKOV,Devana Gas Orbit,The Flying Dutchess,Earth Wine,827
+ZHARKOV,Devana Gas Orbit,The Flying Dutchess,Liquor,38
+ZHARKOV,Devana Gas Orbit,The Flying Dutchess,Medicine,64
+ZHARKOV,Devana Gas Orbit,The Flying Dutchess,Mining Equipment,46
+ZHARKOV,Devana Gas Orbit,The Flying Dutchess,Nano Fibers,278
+ZHARKOV,Devana Gas Orbit,The Flying Dutchess,Ramen,24
+ZHARKOV,Devana Gas Orbit,The Flying Dutchess,Seeds,26
+ZHARKOV,Devana Gas Orbit,The Flying Dutchess,Small Arms,136
+ZHARKOV,Devana Gas Orbit,The Flying Dutchess,Solar Panels,260
