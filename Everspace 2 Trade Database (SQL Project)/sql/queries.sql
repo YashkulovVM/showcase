@@ -1,3 +1,65 @@
+/* У меня в трюме:
+ * 25 единиц Camdon Enzyme,
+ * 150 единиц Ramen,
+ * 50 единиц Cybernetic Implants.
+ * Хочу найти топ-3 мест, где мне профитнее всего продать всё одновременно
+ */
+
+WITH cargo_value AS (
+    SELECT
+        s.star_name,
+        r.region_name,
+        t.trader_id,
+        t.trader_name,
+        SUM(
+            CASE c.comm_name
+                WHEN 'Camdon Enzyme' THEN p.price * 25
+                WHEN 'Ramen' THEN p.price * 150
+                WHEN 'Cybernetic Implants' THEN p.price * 50
+            END
+        ) AS total_revenue
+    FROM prices p
+    JOIN commodities c ON c.comm_id = p.comm_id
+    JOIN traders t ON t.trader_id = p.trader_id
+    JOIN regions r ON r.region_id = t.region_id
+    JOIN systems s ON s.star_id = r.star_id
+    WHERE c.comm_name IN (
+        'Camdon Enzyme',
+        'Ramen',
+        'Cybernetic Implants'
+    )
+    GROUP BY
+        s.star_name,
+        r.region_name,
+        t.trader_id,
+        t.trader_name
+    HAVING COUNT(*) = 3
+)
+SELECT
+    star_name,
+    region_name,
+    trader_name,
+    total_revenue,
+    ROUND(
+        100.0 * (
+            total_revenue
+            / NULLIF((SELECT AVG(total_revenue) FROM cargo_value), 0)
+            - 1
+        ),
+        2
+    ) AS above_average_percent
+FROM cargo_value
+WHERE ROUND(
+        100.0 * (
+            total_revenue
+            / NULLIF((SELECT AVG(total_revenue) FROM cargo_value), 0)
+            - 1
+        ),
+        2
+    ) > 0
+ORDER BY total_revenue DESC
+LIMIT 3;
+
 --Все торговцы и что они продают
 SELECT region_name AS Регион, trader_name AS Торговец, comm_name AS Товар, price AS Цена
 FROM(
@@ -126,64 +188,3 @@ HAVING
 ORDER BY difference_percent DESC NULLS LAST;
 
 
-/* У меня в трюме:
- * 25 единиц Camdon Enzyme,
- * 150 единиц Ramen,
- * 50 единиц Cybernetic Implants.
- * Хочу найти топ-3 мест, где мне профитнее всего продать всё одновременно
- */
-
-WITH cargo_value AS (
-    SELECT
-        s.star_name,
-        r.region_name,
-        t.trader_id,
-        t.trader_name,
-        SUM(
-            CASE c.comm_name
-                WHEN 'Camdon Enzyme' THEN p.price * 25
-                WHEN 'Ramen' THEN p.price * 150
-                WHEN 'Cybernetic Implants' THEN p.price * 50
-            END
-        ) AS total_revenue
-    FROM prices p
-    JOIN commodities c ON c.comm_id = p.comm_id
-    JOIN traders t ON t.trader_id = p.trader_id
-    JOIN regions r ON r.region_id = t.region_id
-    JOIN systems s ON s.star_id = r.star_id
-    WHERE c.comm_name IN (
-        'Camdon Enzyme',
-        'Ramen',
-        'Cybernetic Implants'
-    )
-    GROUP BY
-        s.star_name,
-        r.region_name,
-        t.trader_id,
-        t.trader_name
-    HAVING COUNT(*) = 3
-)
-SELECT
-    star_name,
-    region_name,
-    trader_name,
-    total_revenue,
-    ROUND(
-        100.0 * (
-            total_revenue
-            / NULLIF((SELECT AVG(total_revenue) FROM cargo_value), 0)
-            - 1
-        ),
-        2
-    ) AS above_average_percent
-FROM cargo_value
-WHERE ROUND(
-        100.0 * (
-            total_revenue
-            / NULLIF((SELECT AVG(total_revenue) FROM cargo_value), 0)
-            - 1
-        ),
-        2
-    ) > 0
-ORDER BY total_revenue DESC
-LIMIT 3;
