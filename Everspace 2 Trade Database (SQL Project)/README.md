@@ -32,7 +32,7 @@ CREATE DATABASE everspace_trade;
 ```
 3. Запустите импорт
 
-Откройте терминал в корневой папке репозитория, перейдите в sql и выполните:
+Откройте терминал в корневой папке репозитория, перейдите в директорию sql и выполните:
 ```
 cd sql
 psql -h localhost -p 5432 -U postgres -d everspace_trade -f setup.sql
