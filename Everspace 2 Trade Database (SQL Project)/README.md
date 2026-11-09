@@ -31,11 +31,14 @@ Everspace 2 Trade Database
 CREATE DATABASE everspace_trade;
 ```
 3. Запустите импорт
+
 Откройте терминал в корневой папке репозитория, перейдите в sql и выполните:
 ```
 cd sql
 psql -h localhost -p 5432 -U postgres -d everspace_trade -f setup.sql
 ```
+Можно также запустить sql/creation.sql, затем импортировать в raw_prices содержимое data/prices_import, используя внутренние возможности программы (например, DBeaver), а затем запустить sql/insertion.sql.
+
 4. Проверка загрузки
 Подключитесь к базе проекта в SQL-клиенте и выполните:
 ```
