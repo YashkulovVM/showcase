@@ -36,8 +36,7 @@ CREATE DATABASE everspace_trade;
 cd sql
 psql -h localhost -p 5432 -U postgres -d everspace_trade -f setup.sql
 ```
-
-4.Проверка загрузки
+4. Проверка загрузки
 Подключитесь к базе проекта в SQL-клиенте и выполните:
 ```
 SELECT COUNT(*) AS price_count
